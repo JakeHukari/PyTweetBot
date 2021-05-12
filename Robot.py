@@ -1,10 +1,10 @@
 import tweepy
 import random
 
-CONSUMER_KEY ="XXXX"
-CONSUMER_SECRET = "XXXX"   
-ACCESS_KEY = "XXXX"    
-ACCESS_SECRET = "XXXX"
+CONSUMER_KEY ='XXXX'
+CONSUMER_SECRET = 'XXXX'   
+ACCESS_KEY = 'XXXX'    
+ACCESS_SECRET = 'XXXX'
 
 num = random.randint(0,32627)
 
