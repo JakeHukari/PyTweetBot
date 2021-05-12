@@ -5,3 +5,5 @@
 ###### git clone https://www.github.com/krypt0c/TwitterBot
 ###### cd TwitterBot
 ###### pip install -r requirements.txt
+###### replace the api and consumer keys in the python file
+###### 
